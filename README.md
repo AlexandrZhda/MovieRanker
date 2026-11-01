@@ -40,7 +40,6 @@ Work in Progress...
 - [ ] Allow users to customize the weights assigned to different rating sources.
 - [ ] Integrate additional movie rating sources into the dataset.
 - [ ] Develop a GUI to display movie information and posters.
-   git clone https://github.com/YOUR-USERNAME/MovieRanker.git
 
 ## Author
 Alexandr Zhdanov, https://github.com/AlexandrZhda
